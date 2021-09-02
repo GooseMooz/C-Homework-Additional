@@ -1,1 +1,3 @@
-# MSU-CHomework
+## MSU-CHomework
+#Список задач:
+Задание 1: Задача 38
