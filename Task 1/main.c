@@ -3,8 +3,8 @@
 #include "math.h"
 
 int main(void) {
-    double lambda, sum = 0, s = 0, div;
-    int a, i = 0;
+    double lambda, sum = 0, s, div;
+    int a;
     scanf("%lf", &lambda);
     if (lambda <= 0 || lambda >= 1) {
         printf("Lambda bad\n");
@@ -23,6 +23,7 @@ int main(void) {
         sum *= lambda;
         counter += 1;
     }
+    sum /= lambda;
     div = (1 - lambda) * (1 - pow(lambda, counter));
     s = div * sum;
     fclose(inp);
