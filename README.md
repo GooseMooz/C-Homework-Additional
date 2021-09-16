@@ -2,4 +2,4 @@
 ## Список задач:
 • [Задание 1](https://github.com/GooseMooz/MSU-CHomework/tree/main/Task%201)
 
-• [Задание 2]()
+• [Задание 2](https://github.com/GooseMooz/MSU-CHomework/tree/main/Task%202)
