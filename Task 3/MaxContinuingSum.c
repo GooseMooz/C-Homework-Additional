@@ -17,7 +17,7 @@ double MaxContinuingSum(char path[9], double* result) {
         if (sumMax < sumCur) {
             sumMax = sumCur;
         }
-        if (sumPrev > sumCur) {
+        if (sumCur <= 0) {
             sumCur = 0;
         }
     }
