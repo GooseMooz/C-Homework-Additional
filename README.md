@@ -5,5 +5,5 @@
 * [Задание 2](https://github.com/GooseMooz/MSU-CHomework/tree/main/Task%202) *(Задача #45 (первый лист))*
 * [Задание 3](https://github.com/GooseMooz/MSU-CHomework/tree/main/Task%203) *(Задача #44 (первый лист))*
 * [Задание 4](https://github.com/GooseMooz/MSU-CHomework/tree/main/Task%204) *(Задача #17 (первый лист))*
-* [Задание 5](https://github.com/GooseMooz/MSU-CHomework/tree/main/Task%205) *(Задача #20 (второй лист))*
-* [Задание 6](https://github.com/GooseMooz/MSU-CHomework/tree/main/Task%206) *(Задача #22 (второй лист))*
+* [Задание 5](https://github.com/GooseMooz/MSU-CHomework/tree/main/Task_5) *(Задача #20 (второй лист))*
+* [Задание 6](https://github.com/GooseMooz/MSU-CHomework/tree/main/Task_6) *(Задача #22 (второй лист))*
