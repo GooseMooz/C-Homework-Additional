@@ -1,4 +1,4 @@
-# MSU C Homework
+# C Homework
 ## Список задач:
 ### [Все задачи берутся отсюда](http://lectures.stargeo.ru/tasks/zadachiIadd2.pdf)
 #### Первый лист
